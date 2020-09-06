@@ -4,4 +4,5 @@ This project Classifies MNIST image dataset into class and then it builds an ima
 <h3>Data:</h3>
 <p1>The data used is fashion_mnist </p1>
 <h2>Output:</h2>
+<img src="/aishikasaha/image-classification-on-MNIST/blob/master/images/index.png?raw=true" alt="index.png">
 
